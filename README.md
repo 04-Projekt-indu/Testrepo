@@ -1,2 +1,2 @@
 # Das ist ein test
-gir status
+Das finde ich gut
